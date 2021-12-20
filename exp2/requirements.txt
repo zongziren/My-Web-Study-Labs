@@ -1,0 +1,8 @@
+gensim==4.1.2
+numpy==1.21.4
+pandas==1.3.5
+torch==1.10.1+cu113
+torchaudio==0.10.1+cu113
+torchkge==0.16.25
+torchvision==0.11.2+cu113
+tqdm==4.62.3
