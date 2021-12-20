@@ -72,7 +72,7 @@ The TransE-Hand includes the following files and directories:
 
 - 使用 TorchKGE 库进行训练
 
-### 文件结构
+### 1. 文件结构
 
 ```
 TransE-TorchKGE
@@ -84,7 +84,7 @@ TransE-TorchKGE
   └── train.py
 ```
 
-### 使用方法
+### 2. 使用方法
 
 ```sh
 cd src/TransE-TorchKGE
